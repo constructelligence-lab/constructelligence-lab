@@ -7,6 +7,13 @@ the data a construction company already has. Our forecasting technology and mode
 We also open source the data, prompts, skills and tools we use along the way. Everything below is free to use,
 CC BY 4.0 unless stated, and written for people who actually run jobs.
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/family-dark.svg">
+    <img src="assets/family-light.svg" alt="The Constructelligence open source family: two guides, two records and data sets, four AI tools and skill sets, and a list of open source construction tools" width="100%">
+  </picture>
+</p>
+
 ### The guides
 
 | Repository | What it is |
