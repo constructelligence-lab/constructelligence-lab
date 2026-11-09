@@ -28,6 +28,7 @@ CC BY 4.0 unless stated, and written for people who actually run jobs.
 | --- | --- |
 | [**construction-agent-skills**](https://github.com/constructelligence-lab/construction-agent-skills) | 28 installable agent skills for Claude Code and any agent that reads SKILL.md. |
 | [**construction-prompts**](https://github.com/constructelligence-lab/construction-prompts) | 28 prompts for ChatGPT, Claude and Gemini, each with guardrails and follow-ups. |
+| [**revit-mcp**](https://github.com/constructelligence-lab/revit-mcp) | Autodesk Revit for Claude, Cursor and any MCP client: read the model, photoreal renders and turntables via Blender, PDF/IFC/glTF export. Read-only until you allow writes. |
 | [**open-source-construction-tools**](https://github.com/constructelligence-lab/open-source-construction-tools) | 80 verified open source projects for BIM, IFC, CAD, scheduling and site work, each with an honest caveat. |
 
 ### Where to start
@@ -36,7 +37,7 @@ CC BY 4.0 unless stated, and written for people who actually run jobs.
 - **Estimators and PMs:** [construction prompts](https://github.com/constructelligence-lab/construction-prompts) or, in Claude Code, the [agent skills](https://github.com/constructelligence-lab/construction-agent-skills).
 - **Controllers and PMs moving systems:** [construction data migration](https://github.com/constructelligence-lab/construction-data-migration).
 - **Setting up cost codes or a data model:** [construction-data](https://github.com/constructelligence-lab/construction-data).
-- **Building your own tools:** [open source construction tools](https://github.com/constructelligence-lab/open-source-construction-tools) and the [MCP server](https://github.com/constructelligence-lab/construction-mcp).
+- **Building your own tools:** [open source construction tools](https://github.com/constructelligence-lab/open-source-construction-tools) the [construction MCP server](https://github.com/constructelligence-lab/construction-mcp) and the [Revit MCP server](https://github.com/constructelligence-lab/revit-mcp).
 
 Contributions and corrections are welcome as issues or pull requests on any repository.
 
