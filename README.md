@@ -29,7 +29,7 @@ CC BY 4.0 unless stated, and written for people who actually run jobs.
 | [**construction-agent-skills**](https://github.com/constructelligence-lab/construction-agent-skills) | 28 installable agent skills for Claude Code and any agent that reads SKILL.md. |
 | [**construction-prompts**](https://github.com/constructelligence-lab/construction-prompts) | 28 prompts for ChatGPT, Claude and Gemini, each with guardrails and follow-ups. |
 | [**revit-mcp**](https://github.com/constructelligence-lab/revit-mcp) | Autodesk Revit for Claude, Cursor and any MCP client: read the model, photoreal renders and turntables via Blender, PDF/IFC/glTF export. Read-only until you allow writes. |
-| [**open-source-construction-tools**](https://github.com/constructelligence-lab/open-source-construction-tools) | 80 verified open source projects for BIM, IFC, CAD, scheduling and site work, each with an honest caveat. |
+| [**open-source-construction-tools**](https://github.com/constructelligence-lab/open-source-construction-tools) | 95 verified open source projects for BIM, IFC, CAD, scheduling and site work, each with an honest caveat. |
 
 ### Where to start
 
